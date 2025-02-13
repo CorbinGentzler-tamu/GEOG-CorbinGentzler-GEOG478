@@ -1,0 +1,45 @@
+body {
+    background-color:antiquewhite;
+}
+
+.title {
+    text_transform: uppercase;
+    color:black;
+    text-align:center;
+    font-size:58px;
+}
+
+.margin {
+    margin-left: 300px;
+    margin-right: 300px;
+
+
+}
+
+.text {
+    font-size:25px;
+    margin-left: 350px;
+    margin-right: 300px;
+    color:slategrey;
+
+}
+
+.headers {
+    font-size:40px;
+    color:black;
+}
+
+.smallertext {
+    font-size:20px;
+    color:slategrey;
+    margin-left: 350px;
+    margin-right: 300px;
+}
+
+a[href="https://storymaps.arcgis.com/stories/b18beaab1fcc41e18305996ec264055c"] {
+    color:red;
+}
+
+p {
+    color:slategrey;
+}
